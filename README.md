@@ -3,7 +3,7 @@
 (https://www.robertsspaceindustries.com/galactapedia)
 
 
-![alt text](https://i.imgur.com/Vq33vt5.png
+![alt text](https://i.imgur.com/Vq33vt5.png)
 
 
 
@@ -14,7 +14,9 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 [Python3](https://www.python.org/) - The programming Language Used.
+
 [BeautifulSoup Module] (https://pypi.org/project/beautifulsoup4/) - Python Scraping module.
+
 [LXML](https://pypi.org/project/lxml/) - 
 
 
