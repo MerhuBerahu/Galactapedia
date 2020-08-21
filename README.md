@@ -1,4 +1,6 @@
-# Python3 Web Scraper for Star Citizen Galactapedia - (https://www.robertsspaceindustries.com/galactapedia)
+# Python3 Web Scraper for Star Citizen Galactapedia
+
+(https://www.robertsspaceindustries.com/galactapedia)
 
 
 ![alt text](https://i.imgur.com/Vq33vt5.png
