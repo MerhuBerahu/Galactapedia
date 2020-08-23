@@ -15,9 +15,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 [Python3](https://www.python.org/) - The programming Language Used.
 
-[BeautifulSoup Module] (https://pypi.org/project/beautifulsoup4/) - Python Scraping module.
+[BeautifulSoup Module](https://pypi.org/project/beautifulsoup4/) - Python Scraping module.
 
-[LXML](https://pypi.org/project/lxml/) - 
+[LXML](https://pypi.org/project/lxml/) - Python HTTP/XMLParser Module
 
 
 ```
@@ -43,7 +43,7 @@ Google thus far
 
 * **MerhuBerahu** - *Initial work* - [GitHub](https://github.com/MerhuBerahu)
 
-See also the list of [contributors](https://github.com/MerhuBerahu/Python-RPG/graphs/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/MerhuBerahu/Galactapedia/graphs/contributors) who participated in this project.
 
 ## License
 
